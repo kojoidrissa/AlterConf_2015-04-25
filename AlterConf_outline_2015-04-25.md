@@ -4,6 +4,10 @@
 -  Educator & Accountant w/ an MBA
 -  @transition
 
+##Notes for AlterConf version
+-  try different podcasts: I got Rachel Neigbors quote cuz I heard her on CodeNewbies, where I also learned about difficulties Moms learning to code have.
+    +  Rachel's tweet that got it all started: [Reason #5 for traveling and speaking: Make friends who aren't like you.](https://twitter.com/rachelnabors/status/587113422497546240)
+
 #Main
 "Every character is different, with various strengths and weaknesses, so the best party of adventurers is one in which the characters complement each other and cover the weaknesses of their companions. The adventurers must cooperate to successfully complete the adventure."
     [D&D 5E free downloadable rules](http://dnd.wizards.com/articles/features/basicrules?x=dnd/basicrules)
