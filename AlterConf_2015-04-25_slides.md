@@ -23,9 +23,32 @@
 -  Inherent Limits on the community
     +  tech is "hard", requires 'rigor'; as such, some people won't want to do it
 +  Talent myth creates additional barriers
-    *  "We'll know we've been really succesful when there are a whole bunch of average women programmers." [Lynn Root](http://www.roguelynn.com/about/), in a conversation w/ Jacob Kaplan-Moss that inspired Jacob's PyCon 2015 Keynote.
+    *  See [Jacob Kaplan-Moss' PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE).
 
 #How
+-  Check your assumptions
+    +  "You made an assumption you didn't realize you'd made."
+    +  *What does an **X** look like?*
+        +  Jacob Kaplan-Moss' "[Three Faces of Zuckerberg](https://www.youtube.com/watch?v=hIJdFxYlEKE)" 23:11 in.
+    -  An assumption I heard IN THIS ROOM a few years ago
++  'import this' on Inclusiveness
+    -  Errors pass silently (which Zen of Python does NOT like)
+        +  Errors should never pass silently.
+    -  Although practicality beats purity.
+    -  In the face of ambiguity, refuse the temptation to guess.
+    -  Now is better than never.
+        +  Although never is often better than *right* now.
+-  Learn to interact with people outside your immediate sphere
+    +  don't just talk to other coders
+        +  non-programmers are the LARGEST growth vector for Python
+        +  Python's clean, readable, understandable syntax makes it inviting to "non-programmers"
+    -  Anna Ravenscroft, at about 50 minutes, suggests you "bring someone who is NOT like you" to the next EuroPython (or Python conference).
+-  Ignore legal requirements
+    +  no one wants to feel "forced"
+-  Consider the feelings of others
+-  Practice inclusivity in your local Python community
+-  Have a wider range of people at your local Python events
+
 
 #Q/A?
 
