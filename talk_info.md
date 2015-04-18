@@ -15,8 +15,8 @@ any trigger or content warnings
 -  website: kojoidrissa.com (under construction)
 -  twitter: https://twitter.com/transition
 -  photo: ATTACH THIS
--  bio: Kojo is currently changing careers! After working in accounting and as a university instructor, he's teaching himself to be a software engineer. This may be a TERRBILE idea. He's got a passion for teaching, technology, and equality. As such, you can find him at Girl's Coding Club, PyLadiesHTX (trying to help) and sometimes Houston Gaymers(losing).
+-  bio: Kojo is currently changing careers! After working in accounting and as a university instructor, he's teaching himself to be a software engineer. This may be a TERRIBLE idea. He's got a passion for teaching, technology, and equality. As such, you can find him at [Girls Coding Club](http://www.meetup.com/Girls-Coding-Club/), [PyLadiesHTX](http://www.meetup.com/PyLadies-HTX/), [TX/RX Labs](https://txrxlabs.org)(maybe helping, always learning) and sometimes [Houston Gaymers](https://www.houstongaymers.com/)(losing).
 -  Talk title: Discussing Practical Inclusivity
--  Talk description: I'll talk about discussing Inclusivity with people who may not understand why it matters. The "why" focuses on functional benefits of being Inclusive, especially as they relate to the FLOSS technology space. Next, I'll move on to the "how": what steps can people take to help foster more Inclusion?
+-  Talk description: I'll talk about discussing Inclusivity with people who may not understand what makes it important. The "why" focuses on functional benefits of being Inclusive, especially as they relate to the technology space. Next, I'll move on to the "how": what steps can people take to help foster more Inclusion around them?
 -  Talk Time: 20 minutes
 -  No trigger warnings as far as I know, but as a fairly privileged CIS hetero male, I'll also run it by a few others for better coverage.

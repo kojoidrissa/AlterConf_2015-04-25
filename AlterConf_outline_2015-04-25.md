@@ -75,6 +75,7 @@
 
 #Building a strong "party"
 -  Once you establish different roles are required, it's logical that different types of people may be needed to fill those roles. Or, that different types of people may prefer different types of roles.
+-  A more nuanced approach to the issue is needed. (paraphrasing @Jacobian)
 -  Diversity vs. Inclusion vs. Political Correctness
     +  Diversity: Lots of different *types* of people
     +  Political correctness: I hate `derogatory term for a group of people` but I've been told I can't call them `derogatory term`. I'm supposed to call them `PC term for a group of people`
@@ -84,6 +85,8 @@
 -  Inherent Limits on the community
     +  programming is "hard", requires 'rigor'; as such, some people won't want to do it
     +  more people think, "I wish I could program/It would be cool to program" than "I'm going to spend the time and effort required to learn to create software that solves a problem"
++  Talent myth creates additional barriers
+    *  "We'll know we've been really succesful when there are a whole bunch of average women programmers." [Lynn Root](http://www.roguelynn.com/about/), in a conversation w/ Jacob Kaplan-Moss that inspired Jacob's PyCon 2015 Keynote.
 
 #Zen of Python
 The Zen of Python, by Tim Peters
@@ -111,6 +114,9 @@ Namespaces are one honking great idea -- let's do more of those!
 #How to be inclusive?
 -  Check your assumptions
     +  "You made an assumption you didn't realize you'd made."
+    +  *What does an **X** look like?*
+        +  Jacob Kaplan-Moss' "[Three Faces of Zuckerberg](https://www.youtube.com/watch?v=hIJdFxYlEKE)" 23:11 in.
+    -  An assumption I heard IN THIS ROOM a few years ago
 +  'import this' on Inclusiveness
     -  Errors pass silently (which Zen of Python does NOT like)
         +  Errors should never pass silently.
@@ -134,6 +140,7 @@ If your heart's not really into it or you feel it's "too hard", be honest with y
 
 #Final Words
 [Just as systems tend towards entropy, if you leave a community alone it tends towards toxicity. Good communities require continual effort.](https://twitter.com/jacobian/status/514104755660914688)
+    Jacob Kaplan-Moss, Django core contributer and former BDFL
 
 That goes for people too, especially **me**. It's a process/journey, not a product/destination.
 
