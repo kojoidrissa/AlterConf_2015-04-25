@@ -1,7 +1,8 @@
 #Discussing Practical Inclusion
 ##Kojo Idrissa
--  Proto Software Engineer
--  Educator & Accountant w/ an MBA
+-  Proto Software Engineer/Web Developer
+-  former Educator & Accountant w/ an MBA
+-  member of [TX/RX Labs](https://txrxlabs.org/), (Houston's biggest hackerspace)
 -  @transition on Twitter
 
 #TWO point Oh!
@@ -9,22 +10,31 @@
     +  my notes & slides from that talk - https://github.com/kojoidrissa/PyTexas2014
 -  Lots of Dungeons and Dragons references, if you're into that sort of thing.
 
-#WHY?
+#WHAT?
+-  **You** recognize the value of Inclusiveness. But how do you discuss it with people who don't (yet)?
+    +  "I want to help, but I don't know how"
+    +  The 'business case' for Inclusion
+-  Avoiding the, "good person/bad person" false dichotomy
+-  Inclusive == Winning
 
-#Building a strong "party"
--  If you're looking for people to contribute to your project or community, you want as **many** awesome people as you can get.
--  More than one type of *awesome*
 
-#Political Correctness vs. Diversity vs. Inclusiveness
--  Why I prefer "Inclusiveness": my non-scientific definitions
--  **Political correctness**: I don't like `derogatory term for a group` but I've been told I can't call them `derogatory term`. I'm supposed to call them `PC term for a group`.
+#Terminology: Why I focus on "Inclusiveness" 
+-  I am NOT a sociologist
+-  **Political Correctness**: I don't like `derogatory term for a group` but I've been told I can't call them `derogatory term`. I have to call them `PC term for a group`.
     +  a 'naive solution'
     +  often makes a bad situation worse
 -  **Diversity**: Lots of different *types* of people
     +  another 'naive solution'
-    +  easy to measure; also easy to 'game'
+    +  easy to measure, also easy to 'game', hard to sustain
 -  **Inclusion**: Welcoming to all who wish to peacefully co-exist or contribute
-    +  more complicated to implement
+    +  harder to implement, requires cultural change
+    +  contains a superset of above two terms
+
+#WHY?
+-  Building a strong "party"
+    -  D&D? Any RPG, team-based or multi-unit games? Sportsball?
+-  If you're looking for people to contribute to your project or community, you want as **many** awesome people as you can get.
+-  More than one type of *awesome*
 
 #Why does this matter?
 -  Inherent limits on each community
@@ -33,7 +43,7 @@
 -  Talent myth creates additional barriers
     *  See [Jacob Kaplan-Moss' PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE).
 
-#How: Practicing Inclusivity
+#HOW: Practicing Inclusivity
 
 #Check your assumptions
 +  "You made an assumption you didn't realize you'd made."
@@ -43,8 +53,8 @@
 
 ---
 
-#'import this' on Inclusiveness
--  Errors should never pass silently (which Zen of Python does NOT like)
+#`import this`: Zen of Python on Inclusiveness
+-  Errors should never pass silently
     +  Problems are likely to pass silently, so you need to be vigilant
 -  Although practicality beats purity
     +  the point of this talk
@@ -53,13 +63,14 @@
     +  race/gender/identity/ethnicity: 
 -  Now is better than never.
     +  Although never is often better than *right* now.
+    +  Reflection and forethought go a LONG way towards doing this right
 
 ---
 
 #Learn to interact with people outside your immediate sphere
 +  don't just talk to other tech or gaming people
-    +  non-programmers are the LARGEST growth vector for Python
-    +  Python's clean, readable, understandable syntax makes it inviting to "non-programmers"
+    +  non-technical people are the LARGEST growth vector for any community
+    +  If you're missing a certain skill set, you're more likely to find it OUTSIDE your current circles
 -  Anna Ravenscroft, [Diversity as a Dependency](https://www.youtube.com/watch?v=PLYI46Ou-wI) at about 50 minutes, suggests you "bring someone who is NOT like you" to the next conference.
 
 ---
