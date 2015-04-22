@@ -12,62 +12,58 @@
 
 #WHAT?
 -  **You** recognize the value of Inclusiveness. But how do you discuss it with people who don't (yet)?
-    +  "I want to help, but I don't know how"
     +  The 'business case' for Inclusion
--  Avoiding the, "good person/bad person" false dichotomy
--  Inclusive == Winning
+    +  "I want to help, but I don't know how"
+-  **Avoid**: The false dichotomy of morality
+-  **Embrace**: Inclusive == Winning
 
 
-#Terminology: Why I focus on "Inclusiveness" 
+#Vocabulary: Why I focus on "Inclusiveness" 
 -  I am NOT a sociologist
 -  **Political Correctness**: I don't like `derogatory term for a group` but I've been told I can't call them `derogatory term`. I have to call them `PC term for a group`.
     +  a 'naive solution'
     +  often makes a bad situation worse
 -  **Diversity**: Lots of different *types* of people
     +  another 'naive solution'
-    +  easy to measure, also easy to 'game', hard to sustain
--  **Inclusion**: Welcoming to all who wish to peacefully co-exist or contribute
+    +  easy to measure, easy to 'game', hard to sustain
+-  **Inclusion**: Welcome all who wish to peacefully co-exist or contribute
     +  harder to implement, requires cultural change
     +  contains a superset of above two terms
 
 #WHY?
--  Building a strong "party"
-    -  D&D? Any RPG, team-based or multi-unit games? Sportsball?
--  If you're looking for people to contribute to your project or community, you want as **many** awesome people as you can get.
--  More than one type of *awesome*
-
-#Why does this matter?
+-  To build a strong "party", you need many types of *awesome*
 -  Inherent limits on each community
     +  tech is "hard", requires 'rigor'; as such, some people won't want to do it
-    +  of those who WILL, will they contribute to YOUR community?
--  Talent myth creates additional barriers
-    *  See [Jacob Kaplan-Moss' PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE).
+    *  BUT, you have no idea who those *some* people are. See, "*Assumptions*".
+-  "We don't need ANY more contributors or community members"
+    *  No FLOSS project, ever
++  Inclusion lets you maximize the number of contributors
 
 #HOW: Practicing Inclusivity
 
 #Check your assumptions
 +  "You made an assumption you didn't realize you'd made."
 +  *What does an **X** look like?*
-    +  Jacob Kaplan-Moss' "[Three Faces of Zuckerberg](https://www.youtube.com/watch?v=hIJdFxYlEKE)" 23:11 in.
--  An assumption I heard IN THIS ROOM a few years ago
+    +  Jacob Kaplan-Moss' "[Three Faces of Zuckerberg](https://www.youtube.com/watch?v=hIJdFxYlEKE)" 23:11 into his PyCon 2015 Keynote.
+-  An assumption I heard IN THIS ROOM a few years ago: complicated.
 
 ---
 
 #`import this`: Zen of Python on Inclusiveness
--  Errors should never pass silently
+-  `Errors should never pass silently`
     +  Problems are likely to pass silently, so you need to be vigilant
--  Although practicality beats purity
+-  `Although practicality beats purity` (re: special cases)
     +  the point of this talk
-    +  "Agree with me or be a terrible person!" vs. "Here's how this can help you"
--  In the face of ambiguity, refuse the temptation to guess
-    +  race/gender/identity/ethnicity: 
--  Now is better than never.
-    +  Although never is often better than *right* now.
+    +  "Agree with me or be a terrible person!" vs. "Here's how this can help us"
+-  `In the face of ambiguity, refuse the temptation to guess`
+    +  race/gender ID/orientation/ethnicity: not your concern at Day 1
+-  `Now is better than never.`
+    +  `Although never is often better than *right* now.`
     +  Reflection and forethought go a LONG way towards doing this right
 
 ---
 
-#Learn to interact with people outside your immediate sphere
+#Get out of your bubble
 +  don't just talk to other tech or gaming people
     +  non-technical people are the LARGEST growth vector for any community
     +  If you're missing a certain skill set, you're more likely to find it OUTSIDE your current circles
@@ -75,11 +71,14 @@
 
 ---
 
-#Don't focus primarily on "legal compliance"
+#Do/Don't
+
+###Do: Consider the feelings of others
+-  How would you feel if the demographics were reversed?
+
+###Don't: Focus primarily on "legal compliance"
 +  a "forced" effort is a doomed effort
 
-#Consider the feelings of others
--  How would you feel if the demographics were reversed?
 
 ---
 
@@ -89,10 +88,11 @@ If your heart's not really into it or you feel it's "too hard", be honest with y
 #Final Words
 
 ##[Just as systems tend towards entropy, if you leave a community alone it tends towards toxicity. Good communities require continual effort.](https://twitter.com/jacobian/status/514104755660914688)
--  Jacob Kaplan-Moss, Django core contributer and former BDFL
+####A Tweet from Jacob Kaplan-Moss, Django core contributer and former BDFL
 
 That goes for people too, especially **me**. It's a process/journey, not a product/destination.
 
 
 #Q/A?
+-  @transition on Twitter
 
