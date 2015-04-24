@@ -5,10 +5,6 @@
 -  member of [TX/RX Labs](https://txrxlabs.org/), (Houston's biggest hackerspace)
 -  @transition on Twitter
 
-#TWO point Oh!
--  PyTexas 2014: [A D&D-based guide to Contribution and Inclusion in the Python Community](https://www.youtube.com/watch?v=Xpd9ms2v3Yc)
-    +  my notes & slides from that talk - https://github.com/kojoidrissa/PyTexas2014
--  Lots of Dungeons and Dragons references, if you're into that sort of thing.
 
 #WHAT?
 -  **You** recognize the value of Inclusiveness. But how do you discuss it with people who don't (yet)?
@@ -20,7 +16,7 @@
 
 #Vocabulary: Why I focus on "Inclusiveness" 
 -  I am NOT a sociologist
--  **Political Correctness**: I don't like `derogatory term for a group` but I've been told I can't call them `derogatory term`. I have to call them `PC term for a group`.
+-  **Political Correctness**: "I don't like `derogatory term for a group` but I've been told I can't call them `derogatory term`. I have to call them `PC term for a group`."
     +  a 'naive solution'
     +  often makes a bad situation worse
 -  **Diversity**: Lots of different *types* of people
@@ -28,7 +24,7 @@
     +  easy to measure, easy to 'game', hard to sustain
 -  **Inclusion**: Welcome all who wish to peacefully co-exist or contribute
     +  harder to implement, requires cultural change
-    +  contains a superset of above two terms
+    +  provides a superset of above two terms
 
 #WHY?
 -  To build a strong "party", you need many types of *awesome*
@@ -67,7 +63,7 @@
 +  don't just talk to other tech or gaming people
     +  non-technical people are the LARGEST growth vector for any community
     +  If you're missing a certain skill set, you're more likely to find it OUTSIDE your current circles
--  Anna Ravenscroft, [Diversity as a Dependency](https://www.youtube.com/watch?v=PLYI46Ou-wI) at about 50 minutes, suggests you "bring someone who is NOT like you" to the next conference.
+-  Anna Ravenscroft, EuroPython 2011, [Diversity as a Dependency](https://www.youtube.com/watch?v=PLYI46Ou-wI) at about 50 minutes, suggests you "bring someone who is NOT like you" to the next conference.
 
 ---
 
@@ -90,10 +86,14 @@ If your heart's not really into it or you feel it's "too hard", be honest with y
 ##[Just as systems tend towards entropy, if you leave a community alone it tends towards toxicity. Good communities require continual effort.](https://twitter.com/jacobian/status/514104755660914688)
 ####A Tweet from Jacob Kaplan-Moss, Django core contributer and former BDFL
 
-That goes for people too, especially **me**. It's a process/journey, not a product/destination.
+That goes for individuals too, especially **me**. It's a process/journey, not a product/destination.
 
+#"Prior Art"
+-  PyTexas 2014: [A D&D-based guide to Contribution and Inclusion in the Python Community](https://www.youtube.com/watch?v=Xpd9ms2v3Yc)
+    +  my notes & slides from that talk - https://github.com/kojoidrissa/PyTexas2014
+-  Lots of Dungeons and Dragons references, if you're into that sort of thing.
 
 #Q/A?
--  @transition on Twitter
+-  @Transition on Twitter
 -  https://github.com/kojoidrissa/AlterConf_2015-04-25
 
