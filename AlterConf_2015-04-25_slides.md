@@ -95,4 +95,5 @@ That goes for people too, especially **me**. It's a process/journey, not a produ
 
 #Q/A?
 -  @transition on Twitter
+-  https://github.com/kojoidrissa/AlterConf_2015-04-25
 
