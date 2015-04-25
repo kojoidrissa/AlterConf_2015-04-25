@@ -67,19 +67,23 @@
 
 ---
 
-#Do/Don't
+#Do's & Don'ts
 
-###Do: Consider the feelings of others
--  How would you feel if the demographics were reversed?
+##Do: Be empathetic
 
-###Don't: Focus primarily on "legal compliance"
-+  a "forced" effort is a doomed effort
+##Do: Continue learning on your own
+
+##Don't: Focus primarily on "legal compliance"
+
+##Don't: Be afraid to be "wrong"
 
 
 ---
 
 #What if you can't?
-If your heart's not really into it or you feel it's "too hard", be honest with yourself and just hang around others like you. Recognize that this behavior may leave you isolated from a large (and growing) portion of the community.
+If your heart's not really into it or you feel it's "too hard", be honest with yourself and just hang around others like you. 
+
+Recognize that this behavior may leave you isolated from a large (and growing) portion of the community.
 
 #Final Words
 
